@@ -2,7 +2,7 @@
 - 👀 I’m interested in Neutron and Reactor Physics, Parallel Programming, and CFD.
 - 🌱 I’m currently learning CUDA C/C++ and Neutronics.
 - 💞️ I’m looking forward to collaborate on any labs that needs me.
-- 📫 How to reach me: +821092743892
+- 📫 How to reach me: +821092743892, dwc08204@khu.ac.kr
 - 😄 Pronouns: this/this*
 - ⚡ Fun fact: 
 <!---
